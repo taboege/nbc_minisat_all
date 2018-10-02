@@ -1,3 +1,7 @@
+nbc_minisat_all v1.0.1 Released Oct. 27th 2016
+========================================
+* modified signal handler.
+
 nbc_minisat_all v1.0.0 Released Sep. 30th 2015
 ========================================
 * This software is based on the memory efficient all-solutions SAT Solver
